@@ -150,7 +150,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Blue-sword Fellow Bonus
+  - title: _Blue-sword_ Fellow Bonus
     url: ''
     date: '2022-07-27'
     awarder: ZTE CORPORATION
@@ -160,14 +160,14 @@ awards:
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
-    awarder: President Award, Global Open Competition
+    awarder: President Award in Global Open Competition
     icon: edx
     summary: |
       ''
-  - title: President Special Award, Efficiency Proposal Task
+  - title: President Special Award in Efficiency Proposal Task
     url: ''
     certificate_url: ''
-    date: '2023-08-21'
+    date: '2023-08-05'
     awarder: ZTE CORPORATION
     icon: datacamp
     summary: |
