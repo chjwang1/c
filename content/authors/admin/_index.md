@@ -73,11 +73,10 @@ education:
     date_end: 2019-06-30
     summary: |
       GPA: 3.85/4.0
-      
       Courses included:
-      - Advanced Calculus; Advanced Linear Algebra; Probability-and-Statistics.
-      - Physics; Mechanical Design; Mechanical Theory; Mechanics of Materials; Engineering drawing.
-      - Software Development With C++; General Chemistry; Solids Modeling and 3D Mechanical Design Principles.
+      - Advanced Calculus, Advanced Linear Algebra, Probability-and-Statistics.
+      - Physics, Mechanical Design, Mechanical Theory, Mechanics of Materials, Engineering drawing.
+      - Software Development With C++, General Chemistry, Solids Modeling and 3D Mechanical Design Principles.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
