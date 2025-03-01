@@ -86,10 +86,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - [1] _NPI and equipment digital upgradation_.
+      - [1] _NPI and equipment digital upgradation_.<br>
          •  On-line multi-sensor analytical system architecture via host-PC and Mitsubishi integration.<br>
          •  Screw machine design and control on Simens platform.
-      - [2] _Presided over the application and approved biddings_.
+      - [2] _Presided over the application and approved biddings_.<br>
          •  Green & National Five-Star Site Factory upgraded and construction.<br>
          •  WEF-Lighthouse Factory planned, automatic connected, and built in Penang, Malaysia.
   - position: Research Assistant
@@ -99,15 +99,17 @@ work:
     date_start: 2022-07-01
     date_end: 2024-07-01
     summary: |
-      ''
+      Responsibilities include:
+      - [1] _Re-analysing database about research in master's period_.
+      - [2] _Preparation in journal publishment_.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: 'Conda,learning,C#,C++'
+      - name: Programming
+        description: 'Python,Conda,learning,C#,C++,MATLAB,LabView,TIA portal,GX-Works'
         percent: 80
         icon: code-bracket
       - name: 3D Prototyping
@@ -123,15 +125,15 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
+        description: 'Climb mountain,skiing,fishing,bicycling'
         percent: 60
         icon: person-simple-walk
       - name: Reading & Writing
-        description: ''
+        description: 'Immerse myself in world classics and history books'
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: 'NIkON Camera'
         percent: 80
         icon: camera
 
