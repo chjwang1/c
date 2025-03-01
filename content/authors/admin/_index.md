@@ -54,7 +54,7 @@ education:
     date_end: 2022-06-30
     summary: |
       GPA: 3.81/4.0
-      IELTS: 7.0 (6.5/7.5/6/6)
+      IELTS: 7.0 (6.5/7.5/6/6.5)
       GRE: 150/170/3.5
       Thesis on _Material-structure-performance integrated additive manufacturing of flexible metamaterial piezoelectric devices and its application_. Supervised by [Prof Xiaoming Chen](https://gr.xjtu.edu.cn/en/web/xiaomingchen). Presented papers at 4 Peer-reviewed journal articles with the contributions being attended in 5 International Proceedings.
     button:
