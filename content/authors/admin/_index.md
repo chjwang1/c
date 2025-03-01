@@ -48,37 +48,36 @@ interests:
   - Soft Robotics and matters
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Eng Mechanical Engineering
+    institution: Xi'an Jiaotong University
+    date_start: 2019-09-01
+    date_end: 2022-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.81/4.0
+      IELTS: 7.0 (6.5/7.5/6/6)
+      GRE: 150/170/3.5
+      Thesis on _Material-structure-performance integrated additive manufacturing of flexible metamaterial piezoelectric devices and its application_. Supervised by [Prof Xiaoming Chen](https://gr.xjtu.edu.cn/en/web/xiaomingchen). Presented papers at 4 Peer-reviewed journal articles with the contributions being attended in 5 International Proceedings.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: ''
+  - area: B.Eng Airworthness Management
+    institution: Nanjing University of Aeronautics and Astronautics
+    date_start: 2015-09-01
+    date_end: 2019-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.85/5.0
+      Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain_.
+  - area: B.Eng Mechanical Engineering (Minor)
+    institution: Nanjing University of Aeronautics and Astronautics
+    date_start: 2015-09-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.85/5.0
+      Fundamental courses included:
+      - Advanced Calculus; Advanced Linear Algebra; Probability-and-Statistics;
+      - Physics; Mechanical Design; Mechanical Theory; Mechanics of Materials; Engineering drawing;
+      - Software Development With C++; General Chemistry; Solids Modeling and 3D Mechanical Design Principles;
+      - Comprehensive English; Western Culture; English Academic Writing;
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
