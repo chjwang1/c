@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: Chun-Jiang Wang
 date: 2022-10-24
 type: landing
 
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg_1.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
