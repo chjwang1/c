@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chun-Jiang Wang is presented at a Cheif R&D Engineer in ZTE Corporation Nanjing Branch. His research interest is about micro-3D fabrication, metamaterial electronics, and soft robotics and matters. He lead a industural smart-sensing group aimed at grid multiple sensors system applied at decoding physical signal diagnosis and gathering multimodal behavior of automatic production lines. Three typical expert-systems in ZTE-Binjiang factory has been employed he graduated from Xi'an Jiaotong University in 2022. Moreover, he gained serial awards as the company level and pretend to be a Ph.D candicate in whom it may concerned in 2025 Fall.
