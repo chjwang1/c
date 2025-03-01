@@ -48,7 +48,7 @@ interests:
   - Soft Robotics and matters
 
 education:
-  - area: M.Eng Mechanical Engineering
+  - area: M.S. Mechanical Engineering
     institution: Xi'an Jiaotong University
     date_start: 2019-09-01
     date_end: 2022-06-30
@@ -60,28 +60,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. Airworthness Management
+    institution: Nanjing University of Aeronautics and Astronautics
+    date_start: 2015-09-01
+    date_end: 2019-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.85/5.0
+      Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain
+  - area: B.S. Mechanical Engineering (Minor)
+    institution: Nanjing University of Aeronautics and Astronautics
+    date_start: 2015-09-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.85/5.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Calculus, Advanced Linear Algebra, Probability-and-Statistics.
+      - Physics, Mechanical Design, Mechanical Theory, Mechanics of Materials, Engineering drawing.
+      - Software Development With C++, General Chemistry, Solids Modeling and 3D Mechanical Design Principles.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
