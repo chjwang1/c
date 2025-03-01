@@ -66,11 +66,7 @@ education:
     date_end: 2019-06-30
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain.
   - area: M.S. Mechanical Engineering (Minor)
     institution: Nanjing University of Aeronautics and Astronautics
     date_start: 2016-01-01
