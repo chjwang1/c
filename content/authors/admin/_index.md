@@ -100,8 +100,7 @@ work:
     date_end: 2024-07-01
     summary: |
       Responsibilities include:
-      - [1] _Re-analysing database about research in master's period_.
-      - [2] _Preparation in journal publishment_.
+      - Re-analysing database about research in master's period; Manuscript preparation in journal publishment, which we tried to submit our research results in Nature and Joule, actually it was transferred to _Nature Communication_ and __Device_. This work finally was accepted by the later press, a new lanuched journal by CellPress in 2023.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -150,7 +149,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: _Blue-sword_ Fellow Bonus
+  - title: Blue-sword Fellow Bonus
     url: ''
     date: '2022-07-27'
     awarder: ZTE CORPORATION
@@ -162,16 +161,14 @@ awards:
     date: '2023-07-01'
     awarder: President Award in Global Open Competition
     icon: edx
-    summary: |
-      ''
+#    summary: |
   - title: President Special Award in Efficiency Proposal Task
     url: ''
     certificate_url: ''
     date: '2023-08-05'
     awarder: ZTE CORPORATION
     icon: datacamp
-    summary: |
-      ''
+#    summary: |
 ---
 
 ## About Me
