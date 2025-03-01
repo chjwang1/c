@@ -65,19 +65,19 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 3.8/4.0
-      Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain.
+      GPA: 3.85/4.0
+      Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain_.
   - area: M.S. Mechanical Engineering (Minor)
     institution: Nanjing University of Aeronautics and Astronautics
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2019-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.85/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Calculus; Advanced Linear Algebra; Probability-and-Statistics;
+      - Physics; Mechanical Design; Mechanical Theory; Mechanics of Materials; Engineering drawing;
+      - Software Development With C++; General Chemistry; Solids Modeling and 3D Mechanical Design Principles;
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
