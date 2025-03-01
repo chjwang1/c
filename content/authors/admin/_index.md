@@ -152,21 +152,21 @@ awards:
   - title: Blue-sword Fellow Bonus
     url: ''
     date: '2022-07-27'
-    awarder: ZTE CORPORATION
+    awarder: ZTE
     icon: "custom/ZTE"
     summary: |
       I gained this bonus with $1950 per month in July 2022 which has occupied 0.1% candicates in ZTE CORPORATION.
-  - title: Blockchain Fundamentals
+  - title: President Award in Global Open Competition
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
-    awarder: President Award in Global Open Competition
+    awarder: ZTE
     icon: "custom/ZTE"
 #    summary: |
   - title: President Special Award in Efficiency Proposal Task
     url: ''
     certificate_url: ''
-    date: '2023-08-05'
-    awarder: ZTE CORPORATION
+    date: '2024-03-05'
+    awarder: ZTE
     icon: "custom/ZTE"
 #    summary: |
 ---
