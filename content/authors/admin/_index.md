@@ -107,15 +107,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: 'Conda,learning,C#,C++'
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: 3D Prototyping
+        description: 'CATIA,Pro/E,UG,SolidWorks,Rhino,Abaqus,COMSOL Multiphysics,Adams'
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Illustrating
+        description: 'C4D,3DMax,InDesign,Origin,Office'
         percent: 40
         icon: circle-stack
   - name: Hobbies
@@ -126,7 +126,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading & Writing
         description: ''
         percent: 100
         icon: cat
@@ -137,10 +137,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 85
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Japanese
     percent: 25
 
 # Awards.
