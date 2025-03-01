@@ -60,14 +60,14 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M.S. Airworthness Management
+  - area: B.S. Airworthness Management
     institution: Nanjing University of Aeronautics and Astronautics
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
       GPA: 3.85/4.0
       Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain_.
-  - area: M.S. Mechanical Engineering (Minor)
+  - area: B.S. Mechanical Engineering (Minor)
     institution: Nanjing University of Aeronautics and Astronautics
     date_start: 2015-09-01
     date_end: 2019-06-30
