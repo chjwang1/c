@@ -86,11 +86,11 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - [1] NPI and equipment digital upgradation.
-         •  On-line multi-sensor analytical system architecture via host-PC and Mitsubishi integration.
+      - [1] _NPI and equipment digital upgradation_.
+         •  On-line multi-sensor analytical system architecture via host-PC and Mitsubishi integration.<br>
          •  Screw machine design and control on Simens platform.
-      - [2] Presided over the application and approved biddings.
-         •  Green & National Five-Star Site Factory upgraded and construction.
+      - [2] _Presided over the application and approved biddings_.
+         •  Green & National Five-Star Site Factory upgraded and construction.<br>
          •  WEF-Lighthouse Factory planned, automatic connected, and built in Penang, Malaysia.
   - position: Research Assistant
     company_name: Xi'an Jiaotong University
@@ -99,7 +99,6 @@ work:
     date_start: 2022-07-01
     date_end: 2024-07-01
     summary: |
-      Responsibilities include:
       ''
 
 # Skills
