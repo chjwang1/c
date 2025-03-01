@@ -78,28 +78,29 @@ education:
       - Physics, Mechanical Design, Mechanical Theory, Mechanics of Materials, Engineering drawing.
       - Software Development With C++, General Chemistry, Solids Modeling and 3D Mechanical Design Principles.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Chief R&D Engineer
+    company_name: ZTE CORPORATION
+    company_url: 'https://www.zte.com.cn/global/index.html'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-07-27
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - [1] NPI and equipment digital upgradation.
+         •  On-line multi-sensor analytical system architecture via host-PC and Mitsubishi integration.
+         •  Screw machine design and control on Simens platform.
+      - [2] Presided over the application and approved biddings.
+         •  Green & National Five-Star Site Factory upgraded and construction.
+         •  WEF-Lighthouse Factory planned, automatic connected, and built in Penang, Malaysia.
+  - position: Research Assistant
+    company_name: Xi'an Jiaotong University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-07-01
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
