@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chun-Jiang WANG (王春江)
+title: Chun-Jiang WANG
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -24,32 +24,28 @@ role: Chief R&D Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ZTE CORPORATION
+    url: https://www.zte.com.cn/global/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wangchj0307@stu.xjtu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/weixin
+    url: https://www.wechat.com/
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.xiaohongshu.com/user/profile/589db62b82ec39610ddb53b7?xsec_token=YB51rpbBo5LJg6U2y5wnfUZlZ258kgvjPvnApgNfanGJw=&xsec_source=app_share&xhsshare=CopyLink&appuid=589db62b82ec39610ddb53b7&apptime=1740730645&share_id=d92882a577104c3cb2c4e868e1292dc9
+  - icon: brands/facebook
+    url: https://www.facebook.com/share/1Ma8tSuSXk/?mibextid=LQQJ4d
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Micro-3D Fabrication
+  - Metamaterial Electronics
+  - Soft Robotics and matters
 
 education:
   - area: PhD Artificial Intelligence
