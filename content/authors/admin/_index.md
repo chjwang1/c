@@ -94,7 +94,7 @@ work:
          •  WEF-Lighthouse Factory planned, automatic connected, and built in Penang, Malaysia.
   - position: Research Assistant
     company_name: Xi'an Jiaotong University
-    company_url: ''
+    company_url: 'https://gr.xjtu.edu.cn/en/web/xiaomingchen'
     company_logo: ''
     date_start: 2022-07-01
     date_end: 2024-07-01
