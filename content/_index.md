@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Featured Publications'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Peer-viewed Articles
+        [1]	Wang C, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. Device (CellPress). 3, 100658 (2025).
+        [2]	Shi J*, Tong Z, Wang C, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. Ceram. Int. 50, 2, 2921-2930 (2024).
+        [3]	Chen X*, Wen K, Wang C, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. Compos. Part B Eng. 234, 109751 (2022).
+        [4]	Chen X*, Wen K, Cheng S, Wang C, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. Compos. Part B Eng. 248, 110368 (2023).
     design:
       columns: '1'
 #  - block: collection
