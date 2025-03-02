@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief R&D Engineer
+role: Group-Lead R&D Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -173,4 +173,4 @@ awards:
 
 ## About Me
 
-Chun-Jiang Wang is presented at a Cheif R&D Engineer in ZTE Corporation Nanjing Branch. His research interest is about micro-3D fabrication, metamaterial electronics, and soft robotics and matters.<br> As a common approach to detect operation situation in real-time, multi-dimensional and mechanics-driven sensors are significantly applied at physical signal diagnosis and multimodal behavior gathering of automatic production lines. He lead a industural smart-sensing group aimed at grid photoelectric, mechanoelectric, and thermoelectric energy conversion network after he graduated from Xi'an Jiaotong University in 2022. Serval typical expert execution system in ZTE-Binjiang factory has been achieved for no-one intervenes factory construction with stable states.<br> Moreover, he was honored many awards either in company level or university top praises, and he pretend to be a Ph.D candicate in whom it may concerned in 2026 Fall.
+Chun-Jiang Wang is presented as a Group-Lead R&D Engineer in ZTE Corporation Nanjing Branch. He graduated with excellent honors (M.S.) from Xi’an Jiaotong University in 2022 and joined ZTE Corp. with a blue-sword Fellow bonus. His research interests are focused on the basic theoretical issues of micro-3D fabrication, metamaterial electronics, and soft robot designs.<br> As a common demand to detect the operation situation of obsolete equipment in real-time, multi-dimensional and mechanics-driven sensors are significantly applied at physical signal diagnosis. Multimodal behavior ought to be decoded even if gathering I/O responds in the automatic production lines. He has a foundation in leading an industrial sensing group aimed at grid energy conversion networks. Combined various brands of photo-, mechano-, and thermo-electronics devices, he dedicated setting up series bus-connected expert execution systems with stable states. Moreover, it has been achieved for the nation-site green factory upgrading in the non-intervening factory of the ZTE-Binjiang Base.<br> He had relatively diverse experiences and won awards, either in company or university top praises. He pretended to be a Ph.D. candidate in whom it may be concerned in Fall 2026.
