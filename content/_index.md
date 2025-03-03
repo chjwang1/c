@@ -34,7 +34,6 @@ sections:
     content:
       title: 'Featured Publications'
       subtitle: ''
-      maxWidth:'80%'
       text: |-
         Peer-viewed Articles <br>
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b>Device</b> (CellPress). 3, 100658 (2025).<br>
@@ -46,6 +45,7 @@ sections:
       percent: 50
       position: center
       parallax: false  
+      maxWidth: 80%
 #  - block: collection
 #    id: papers
 #    content:
