@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: profile
+  - block: markdown
     content:
       title: 'Featured Publications'
       subtitle: ''
