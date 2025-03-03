@@ -35,13 +35,14 @@ sections:
       title: 'Featured Publications'
       subtitle: ''
       text: |-
-        Peer-viewed Articles
-        [1]	Wang C, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. Device (CellPress). 3, 100658 (2025).
-        [2]	Shi J*, Tong Z, Wang C, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. Ceram. Int. 50, 2, 2921-2930 (2024).
-        [3]	Chen X*, Wen K, Wang C, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. Compos. Part B Eng. 234, 109751 (2022).
-        [4]	Chen X*, Wen K, Cheng S, Wang C, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. Compos. Part B Eng. 248, 110368 (2023).
+        Peer-viewed Articles <br>
+        [1]	<b>Wang C</b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. Device (CellPress). 3, 100658 (2025).<br>
+        [2]	Shi J*, Tong Z, <b>Wang C</b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. Ceram. Int. 50, 2, 2921-2930 (2024).<br>
+        [3]	Chen X*, Wen K, <b>Wang C</b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. Compos. Part B Eng. 234, 109751 (2022).<br>
+        [4]	Chen X*, Wen K, Cheng S, <b>Wang C</b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. Compos. Part B Eng. 248, 110368 (2023).<br>
     design:
-      columns: '1'
+      columns: 2
+      percent: 80  
 #  - block: collection
 #    id: papers
 #    content:
