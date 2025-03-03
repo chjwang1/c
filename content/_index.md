@@ -45,7 +45,7 @@ sections:
       percent: 50
       position: center
       parallax: false  
-      maxWidth: 80%
+      maxWidth: 100
 #  - block: collection
 #    id: papers
 #    content:
