@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: markdown_123
     content:
       title: 'Featured Publications'
       subtitle: ''
@@ -45,9 +45,6 @@ sections:
       percent: 50
       position: center
       parallax: false
-      card:
-        # Card background color (CSS class)
-        css_class: "newtwocss"
 #  - block: collection
 #    id: papers
 #    content:
