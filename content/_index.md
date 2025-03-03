@@ -44,8 +44,10 @@ sections:
       columns: 1
       percent: 50
       position: center
-      parallax: false  
-      maxWidth: 100
+      parallax: false
+      card:
+        # Card background color (CSS class)
+        css_class: "newtwocss"
 #  - block: collection
 #    id: papers
 #    content:
