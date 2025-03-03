@@ -41,8 +41,10 @@ sections:
         [3]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. <b>Compos. Part B Eng.</b> 234, 109751 (2022).<br>
         [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b>Compos. Part B Eng.</b> 248, 110368 (2023).<br>
     design:
-      columns: 2
-    percent: 50  
+      columns: 1
+      percent: 50
+      position: center
+      parallax: false  
 #  - block: collection
 #    id: papers
 #    content:
