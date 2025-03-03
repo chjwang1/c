@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-biography
+  - block: profile
     content:
       title: 'Featured Publications'
       subtitle: ''
