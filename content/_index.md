@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: speakers
+  - block: collection
     content:
       title: 'Featured Publications'
       subtitle: ''
