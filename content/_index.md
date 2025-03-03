@@ -40,7 +40,7 @@ sections:
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b>Device</b> (CellPress). 3, 100658 (2025).<br>
         [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b>Ceram. Int.</b> 50, 2, 2921-2930 (2024).<br>
         [3]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. <b>Compos. Part B Eng.</b> 234, 109751 (2022).<br>
-        [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b>Compos. Part B Eng.</b> 248, 110368 (2023).<br>  <style>.max-w-prose{max-width:85%}</style> 
+        [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b>Compos. Part B Eng.</b> 248, 110368 (2023).<br>  <style>#section-markdown .max-w-prose{max-width:85%}</style> 
     design:
       columns: 1
       percent: 50
