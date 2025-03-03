@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: emerald
-  width: river
+  css: river
 
 # SEO
 marketing:
