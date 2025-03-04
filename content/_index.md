@@ -36,7 +36,7 @@ sections:
       title: 'Featured Publications'
       subtitle: ''
       text: |-
-        <div style="font-size:24px;">
+        <div style="font-size:16px;">
         Peer-viewed Articles <br>
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> (CellPress). 3, 100658 (2025).<br>
         [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> 50, 2, 2921-2930 (2024).<br>
