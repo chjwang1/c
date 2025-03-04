@@ -77,7 +77,18 @@ sections:
       text: |-
         <div style="font-size:16px;">
         Honors<br>
+         	[1] Excellent Graduation with Honor (1%, XJTU)<br>
+          [2] Excellent Master Thesis (1%, top honor)<br>
+          [3] Excellent Postgraduate & Cadre<br>
+          [4] Excellent Graduate & Cadre<br>
+          [5] Blue-sword Fellow Bonus (0.1%, ZTE)<br>
+          [6] Schlumberger National Fellowship (0.5%)<br>
+          [7] National Encouragement Scholarship<br>
+          [8] Recommended Postgraduate Scholarship (Exempt-exam)<br>
+          [9] Outstanding Student Scholarship (7 times)<br>
 
+        <style>#section-markdown .max-w-prose{max-width:85%}</style>
+        </div>
     design:
       columns: 1
       percent: 50
