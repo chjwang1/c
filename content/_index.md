@@ -69,6 +69,21 @@ sections:
       percent: 50
       position: center
       parallax: false
+ 
+  - block: markdown
+    content:
+      title: '<div style="font-size:24px;">Honors and Awards</div>'
+      subtitle: 'Featured praises list'
+      text: |-
+        <div style="font-size:16px;">
+        Honors<br>
+
+    design:
+      columns: 1
+      percent: 50
+      position: center
+      parallax: false
+
 
 #  - block: collection
 #    id: papers
