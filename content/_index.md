@@ -46,7 +46,7 @@ sections:
       percent: 50
       position: center
       parallax: false
-      font size: 16px
+      font size: 10px
 #  - block: collection
 #    id: papers
 #    content:
