@@ -24,13 +24,13 @@ role: Group-Lead R&D Engineer, RA (XJTU)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ZTE CORPORATION <br> E-mail:wangchj0307@stu.xjtu.edu.cn
+  - name: ZTE CORPORATION
     url: https://www.zte.com.cn/global/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol <br>
+  - icon: at-symbol
     url: 'mailto:wangchj0307@stu.xjtu.edu.cn'
     label: E-mail Me
   - icon: brands/weixin
@@ -173,4 +173,5 @@ awards:
 
 ## About Me
 
-Chun-Jiang Wang is presented as a Group-Lead R&D Engineer in ZTE Corporation Nanjing Research. He graduated with excellent honors (M.S.) from Xi’an Jiaotong University in 2022 and joined ZTE Corp. with a blue-sword Fellow bonus.<br> He has a foundation in leading an industrial sensing group aimed at grid energy conversion networks for multimodal physical signal recognition. Combined various brands of photo-, mechano-, and thermo-electronics devices, he dedicated setting up series kinds of execution systems. It has been stably achieved for the nation-site green factory upgrading of the non-intervening factory in ZTE-Binjiang Base. He had relatively diverse experiences and won awards, either in company or university top praises.<br> At the present time, he pretended to be a Ph.D. candidate promptly in whom it may be concerned in Fall 2026.
+Chun-Jiang Wang is presented as a Group-Lead R&D Engineer in ZTE Corporation Nanjing Research. He graduated with excellent honors (M.S.) and top praises from Xi’an Jiaotong University in 2022 and joined ZTE Corp. with a blue-sword Fellow bonus.<br> He has a foundation in leading an industrial sensing group aimed at grid energy conversion networks for multimodal physical signal recognition. Combined various brands of photo-, mechano-, and thermo-electronics devices, he dedicated setting up series kinds of execution platforms. They were stably achieved for the upgrading of ZTE-Binjiang's non-intervening base and benefited from the nation-site green qualified commendation. <br> At the present time, he pretended to be a Ph.D. candidate promptly in whom it may be concerned in Fall 2026.<br>
+✉️ wangchj0307@stu.xjtu.edu.cn, codyj.me@gmail.com
