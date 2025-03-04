@@ -76,9 +76,9 @@ sections:
       subtitle: 'Featured praises list'
 
       text: |-
-        <div style="font-size:16px;"><pre>
+        <div style="font-size:16px;">
         Honors<br>
-        [1] Excellent Graduation with Honor (1%, XJTU)                                           | 2022 <br>
+        [1] Excellent Graduation with Honor (1%, XJTU)<pre>                                           </pre>| 2022 <br>
         [2] Excellent Master Thesis (1%, top honor)                                              | 2022 <br>
         [3] Excellent Postgraduate & Cadre                                                       | 2021 <br>
         [4] Excellent Graduate & Cadre                                                           | 2019 <br>
@@ -96,7 +96,7 @@ sections:
         Second Award, National Undergraduate Innovation Competition                              | 2020 <br>
         Second Award, National Ministry of Education of Graduation Dissertation Competition      | 2019 <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
-        </pre></div>
+        </div>
     design:
       columns: 1
       percent: 50
