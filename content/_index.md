@@ -77,16 +77,23 @@ sections:
       text: |-
         <div style="font-size:16px;">
         Honors<br>
-         	[1] Excellent Graduation with Honor (1%, XJTU)<br>
-          [2] Excellent Master Thesis (1%, top honor)<br>
-          [3] Excellent Postgraduate & Cadre<br>
-          [4] Excellent Graduate & Cadre<br>
-          [5] Blue-sword Fellow Bonus (0.1%, ZTE)<br>
-          [6] Schlumberger National Fellowship (0.5%)<br>
-          [7] National Encouragement Scholarship<br>
-          [8] Recommended Postgraduate Scholarship (Exempt-exam)<br>
-          [9] Outstanding Student Scholarship (7 times)<br>
-
+        [1] Excellent Graduation with Honor (1%, XJTU)                                           | 2022 <br>
+        [2] Excellent Master Thesis (1%, top honor)                                              | 2022 <br>
+        [3] Excellent Postgraduate & Cadre                                                       | 2021 <br>
+        [4] Excellent Graduate & Cadre                                                           | 2019 <br>
+        [5] Blue-sword Fellow Bonus (0.1%, ZTE)                                                  | 2022-2024 <br>
+        [6] Schlumberger National Fellowship (0.5%)                                              | 2021 <br>
+        [7] National Encouragement Scholarship                                                   | 2020 <br>
+        [8] Recommended Postgraduate Scholarship (Exempt-exam)                                   | 2019 <br>
+        [9] Outstanding Student Scholarship (7 times)                                            | 2016-2022 <br>
+        <br>
+        Awards<br>
+        President Award, Global Open Competition                                                 | 2024 <br>
+        President Special Award, Efficiency Proposal Task                                        | 2023 <br>
+        Golden Award, ZTE National Innovation Day (twice)                                        | 2023-2024 <br>
+        Golden Award, National Competition ‘Challenge Cup’ (4/379)                               | 2021 <br>
+        Second Award, National Undergraduate Innovation Competition                              | 2020 <br>
+        Second Award, National Ministry of Education of Graduation Dissertation Competition      | 2019 <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
     design:
