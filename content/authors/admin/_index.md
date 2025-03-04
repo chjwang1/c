@@ -148,26 +148,26 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Blue-sword Fellow Bonus
-    url: ''
-    date: '2022-07-27'
-    awarder: ZTE
-    icon: "custom/ZTE"
-    summary: |
-      I gained this bonus with $1950 per month in July 2022 which has occupied 0.1% candicates in ZTE CORPORATION.
-  - title: President Award in Global Open Competition
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: ZTE
-    icon: "custom/ZTE"
+#awards:
+#  - title: Blue-sword Fellow Bonus
+#    url: ''
+#    date: '2022-07-27'
+#    awarder: ZTE
+#    icon: "custom/ZTE"
 #    summary: |
-  - title: President Special Award in Efficiency Proposal Task
-    url: ''
-    certificate_url: ''
-    date: '2024-03-05'
-    awarder: ZTE
-    icon: "custom/ZTE"
+#      I gained this bonus with $1950 per month in July 2022 which has occupied 0.1% candicates in ZTE CORPORATION.
+#  - title: President Award in Global Open Competition
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    date: '2023-07-01'
+#    awarder: ZTE
+#    icon: "custom/ZTE"
+#    summary: |
+#  - title: President Special Award in Efficiency Proposal Task
+#    url: ''
+#    certificate_url: ''
+#    date: '2024-03-05'
+#    awarder: ZTE
+#    icon: "custom/ZTE"
 #    summary: |
 ---
 
