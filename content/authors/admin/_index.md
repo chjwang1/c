@@ -24,13 +24,13 @@ role: Group-Lead R&D Engineer, RA (XJTU)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ZTE CORPORATION
+  - name: ZTE CORPORATION <br> E-mail:wangchj0307@stu.xjtu.edu.cn
     url: https://www.zte.com.cn/global/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: at-symbol <br>
     url: 'mailto:wangchj0307@stu.xjtu.edu.cn'
     label: E-mail Me
   - icon: brands/weixin
