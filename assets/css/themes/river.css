@@ -1,3 +1,6 @@
 .max-w-prose{
   max-width:80% !important;
 }
+.word-size{
+  font-size:6px;
+}
