@@ -33,7 +33,7 @@ sections:
           parallax: false         
   - block: markdown
     content:
-      title: '<div style="font-size:22px;"><b>Featured Publications<b></div>'
+      title: '<div style="font-size:22px;">Featured Publications</div>'
       subtitle: ''
       text: |-
         <div style="font-size:16px;">
