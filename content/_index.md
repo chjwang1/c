@@ -77,7 +77,7 @@ sections:
       text: |-
         <div style="font-size:16px;">
         Honors<br>
-        [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <a href="1.jpg" download="1.jpg">Download</a> <br>
+        [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <a href="https://chjwang1.github.io/c/1.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [2] 2022 | <a href="https://gs.xjtu.edu.cn/info/1187/8982.htm" target="_blank" rel="noopener">Excellent Master Thesis</a> (1%, honored in Xi'an Jiaotong University) <br>
         [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University)<br>
         [4] 2019 | Excellent Graduate & Cadre (honored in Nanjing University of Aeronautics and Astronatics)<br>
