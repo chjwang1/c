@@ -77,24 +77,27 @@ sections:
       text: |-
         <div style="font-size:16px;">
         Honors<br>
-        [1] 2022 | Excellent Graduation with Honor (1%, XJTU) <br>
-        [2] 2022 | Excellent Master Thesis (1%, top honor)<br>
-        [3] 2021 | Excellent Postgraduate & Cadre <br>
-        [4] 2019 | Excellent Graduate & Cadre <br>
+        [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <br>
+        [2] 2022 | Excellent Master Thesis (1%, honored in Xi'an Jiaotong University)<br>
+        [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University)<br>
+        [4] 2019 | Excellent Graduate & Cadre (honored in Nanjing University of Aeronautics and Astronatics)<br>
         <br>
         Rewards<br>
-        [1] 2022 | Blue-sword Fellow Bonus (0.1%, awarded for three consecutive years, ZTE) <br>
-        [2] 2021 | Schlumberger National Fellowship (0.5%) <br>
-        [3] 2020 | National Encouragement Scholarship <br>
-        [4] 2019 | Recommended Postgraduate Scholarship (Exempt-exam) <br>
-        [5] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years)<br>
+        [1] 2024 | ZTE Quarterly Fighting Innovation Pioneer Bonus (Temperature wireless sensing system benefits production equipment status detection) <br>
+        [2] 2024 | ZTE Global Open Competition First-level Bonus (Unmanned inspection system benefits production and packagment with intelligent operation and real-time maintenance) <br>
+        [3] 2023 | ZTE Efficiency Proposal Task Bonus (Multi-sensor hybrid packaging product intelligent scheduling system) <br>
+        [4] 2022 | Blue-sword Fellow Bonus (0.1%, awarded for three consecutive years, ZTE) <br>
+        [5] 2021 | Schlumberger National Fellowship (0.5%, Schlumberger Foundation) <br>
+        [6] 2020 | National Encouragement Scholarship (National Ministry of Education) <br>
+        [7] 2019 | Recommended Postgraduate Scholarship (Exempt-exam in the admission) <br>
+        [8] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years)<br>
         <br>
         Awards<br>
-        [1] 2024 | President Award, Global Open Competition <br>
-        [2] 2023 | President Special Award, Efficiency Proposal Task <br>
+        [1] 2024 | President Award, Global Open Competition (ZTE, awarder: president Mr. Jianming Yang) <br>
+        [2] 2023 | President Special Award, Efficiency Proposal Task (ZTE, awarder: vice president Mr. Guoxing Ding) <br>
         [3] 2023 | Golden Award, ZTE National Innovation Day (twice awarded) <br>
-        [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379) <br>
-        [5] 2020 | Second Award, National Undergraduate Innovation Competition <br>
+        [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379, the 13th Challenge Cup National Competition of Academic & Technological Works, Xi'an, Shaanxi Province, China) <br>
+        [5] 2020 | Second Award, National Undergraduate Innovation Competition (Mechanical Engineering Innovation and Creativity Competition, Yantai, Shandong Province, China) <br>
         [6] 2019 | Second Award, National Ministry of Education of Graduation Dissertation Competition <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
