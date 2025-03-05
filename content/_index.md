@@ -91,15 +91,15 @@ sections:
         [5] 2021 | Schlumberger National Fellowship (0.5%, Schlumberger Foundation) <a href="https://chjwang1.github.io/c/reward4.jpg" target="_blank" rel="noopener">Certificate</a> <br> 
         [6] 2020 | National Encouragement Scholarship (National Ministry of Education) <a href="https://chjwang1.github.io/c/reward.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [7] 2019 | Recommended Postgraduate Scholarship (Exempt-exam in the admission) <a href="https://yz.xjtu.edu.cn/2019tmmd.pdf" target="_blank" rel="noopener">Certificate</a> <br>
-        [8] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years) <a href="https://chjwang1.github.io/c/reward5.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [8] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years) <a href="https://chjwang1.github.io/c/reward5.png" target="_blank" rel="noopener">Certificate</a> <br>
         <br>
         Awards<br>
         [1] 2024 | President Award, Global Open Competition (ZTE, awarder: president Mr. Jianming Yang) <br>
-        [2] 2023 | President Special Award, Efficiency Proposal Task (ZTE, awarder: vice president Mr. Guoxing Ding) <br>
+        [2] 2023 | President Special Award, Efficiency Proposal Task (ZTE, awarder: vice president Mr. Guoxing Ding) <a href="https://chjwang1.github.io/c/award2.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [3] 2023 | Golden Award, ZTE National Innovation Day (twice awarded) <a href="https://chjwang1.github.io/c/award3.jpg" target="_blank" rel="noopener">Certificate</a> <br>
-        [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379, the 13th Challenge Cup National Competition of Academic & Technological Works, Xi'an, Shaanxi Province, China) <a href="https://chjwang1.github.io/c/award4.jpg" target="_blank" rel="noopener">Certificate</a> <br>
-        [5] 2020 | Second Award, National Undergraduate Innovation Competition (Mechanical Engineering Innovation and Creativity Competition, Yantai, Shandong Province, China) <br>
-        [6] 2019 | Second Award, National Ministry of Education of Graduation Dissertation Competition <br>
+        [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379, the 13th Challenge Cup National Competition of Academic & Technological Works, Xi'an, Shaanxi Province, China) <a href="https://chjwang1.github.io/c/award4.png" target="_blank" rel="noopener">Certificate</a> <br>
+        [5] 2020 | Second Award, National Undergraduate Innovation Competition (Mechanical Engineering Innovation and Creativity Competition, Yantai, Shandong Province, China) <a href="https://chjwang1.github.io/c/award5.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [6] 2019 | Second Award, National Ministry of Education of Graduation Dissertation Competition <a href="https://chjwang1.github.io/c/award6.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
     design:
