@@ -74,7 +74,7 @@ sections:
     content:
       title: '<div style="font-size:24px;">Featured Praises List</div>'
       subtitle: ''
-      text: |-https://gs.xjtu.edu.cn/info/1187/8982.htm
+      text: |-
         <div style="font-size:16px;">
         Honors<br>
         [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <br>
