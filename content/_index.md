@@ -94,7 +94,7 @@ sections:
         [8] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years) <a href="https://chjwang1.github.io/c/reward5.png" target="_blank" rel="noopener">Certificate</a> <br>
         <br>
         Awards<br>
-        [1] 2024 | President Award, Global Open Competition (ZTE, awarder: president Mr. Jianming Yang) <br>
+        [1] 2024 | President Award, Global Open Competition (ZTE, awarder: president Mr. Jianming Yang) <a href="" target="_blank" rel="noopener">Certificate</a> <br>
         [2] 2023 | President Special Award, Efficiency Proposal Task (ZTE, awarder: vice president Mr. Guoxing Ding) <a href="https://chjwang1.github.io/c/award2.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [3] 2023 | Golden Award, ZTE National Innovation Day (twice awarded) <a href="https://chjwang1.github.io/c/award3.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379, the 13th Challenge Cup National Competition of Academic & Technological Works, Xi'an, Shaanxi Province, China) <a href="https://chjwang1.github.io/c/award4.png" target="_blank" rel="noopener">Certificate</a> <br>
