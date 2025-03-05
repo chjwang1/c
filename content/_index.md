@@ -81,14 +81,14 @@ sections:
         [2] 2022 | Excellent Master Thesis (1%, honored in Xi'an Jiaotong University) <a href="https://gs.xjtu.edu.cn/info/1187/8982.htm" target="_blank" rel="noopener">Certificate</a> <br>
         [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University) <a href="https://chjwang1.github.io/c/honor3.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [4] 2019 | Excellent Undergraduate Thesis (1%, honored in Nanjing University of Aeronautics and Astronatics) <a href="https://aao.nuaa.edu.cn/_t2299/2019/0701/c19045a171711/page.htm" target="_blank" rel="noopener">Certificate</a><br>
-        [5] 2019 | Excellent Graduation with Honor (honored in Nanjing University of Aeronautics and Astronatics) <a href="https://cca.nuaa.edu.cn/_s146/_t862/4769/list.psp" target="_blank" rel="noopener">Certificate</a><br>
+        [5] 2019 | Excellent Graduation with Honor (honored in Nanjing University of Aeronautics and Astronatics) <a href="https://cca.nuaa.edu.cn/_s146/_t862/4769/list.psp" target="_blank" rel="noopener">Certificate</a> <br>
         <br>
         Rewards<br>
-        [1] 2024 | ZTE Quarterly Fighting Innovation Pioneer Bonus (Temperature wireless sensing system benefits production equipment status detection) <br>
-        [2] 2024 | ZTE Global Open Competition First-level Bonus (Unmanned inspection system benefits production and packagment with intelligent operation and real-time maintenance) <br>
-        [3] 2023 | ZTE Efficiency Proposal Task Bonus (Multi-sensor hybrid packaging product intelligent scheduling system) <br>
-        [4] 2022 | Blue-sword Fellow Bonus (0.1%, awarded for three consecutive years, ZTE) <br>
-        [5] 2021 | Schlumberger National Fellowship (0.5%, Schlumberger Foundation) <br>
+        [1] 2024 | ZTE Quarterly Fighting Innovation Pioneer Bonus (Temperature wireless sensing system benefits production equipment status detection) <a href="https://chjwang1.github.io/c/reward1.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [2] 2024 | ZTE Global Open Competition First-level Bonus (Unmanned inspection system benefits production and packagment with intelligent operation and real-time maintenance) <a href="" target="_blank" rel="noopener">Certificate</a> <br>
+        [3] 2023 | ZTE Efficiency Proposal Task Bonus (Multi-sensor hybrid packaging product intelligent scheduling system) <a href="https://chjwang1.github.io/c/reward2.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [4] 2022 | Blue-sword Fellow Bonus (0.1%, awarded for three consecutive years, ZTE) <a href="https://chjwang1.github.io/c/reward3.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [5] 2021 | Schlumberger National Fellowship (0.5%, Schlumberger Foundation) <a href="https://chjwang1.github.io/c/reward4.jpg" target="_blank" rel="noopener">Certificate</a> <br> 
         [6] 2020 | National Encouragement Scholarship (National Ministry of Education) <br>
         [7] 2019 | Recommended Postgraduate Scholarship (Exempt-exam in the admission) <br>
         [8] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years)<br>
