@@ -72,13 +72,13 @@ sections:
  
   - block: markdown
     content:
-      title: '<div style="font-size:24px;">Featured praises list</div>'
+      title: '<div style="font-size:24px;">Featured Praises List</div>'
       subtitle: ''
-      text: |-
+      text: |-https://gs.xjtu.edu.cn/info/1187/8982.htm
         <div style="font-size:16px;">
         Honors<br>
         [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <br>
-        [2] 2022 | Excellent Master Thesis (1%, honored in Xi'an Jiaotong University)<br>
+        [2] 2022 | <a href="https://gs.xjtu.edu.cn/info/1187/8982.htm" target="_blank" rel="noopener">Excellent Master Thesis</a> (1%, honored in Xi'an Jiaotong University) <br>
         [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University)<br>
         [4] 2019 | Excellent Graduate & Cadre (honored in Nanjing University of Aeronautics and Astronatics)<br>
         <br>
@@ -107,6 +107,22 @@ sections:
       position: center
       parallax: false
 
+  - block: markdown
+    content:
+      title: '<div style="font-size:24px;">Highlight Research in Media Reports</div>'
+      subtitle: ''
+      text: |-
+        <div style="font-size:16px;">
+        [1] <a href="https://www.cell.com/" target="_blank" rel="noopener">Cell Press</a> | <a href="mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q" target="_blank" rel="noopener">mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q</a> <br>
+        [2] <a href="https://x.com/thepapercn" target="_blank" rel="noopener">The Paper</a> | <a href="m.thepaper.cn/newsDetail_forward_29947549" target="_blank" rel="noopener">m.thepaper.cn/newsDetail_forward_29947549</a> <br>
+        [3] <a href="https://www.tencent.com/en-us/media/news.html" target="_blank" rel="noopener">Tencent News</a> | <a href="news.qq.com/rain/a/20250116A078JY00?suid=&media_id=" target="_blank" rel="noopener">news.qq.com/rain/a/20250116A078JY00?suid=&media_id=</a> <br>
+        <style>#section-markdown .max-w-prose{max-width:85%}</style>
+        </div>
+    design:
+      columns: 1
+      percent: 50
+      position: center
+      parallax: false
 
 #  - block: collection
 #    id: papers
