@@ -72,29 +72,30 @@ sections:
  
   - block: markdown
     content:
-      title: '<div style="font-size:24px;">Honors and Awards</div>'
-      subtitle: 'Featured praises list'
-
+      title: '<div style="font-size:24px;">Featured praises list</div>'
+      subtitle: ''
       text: |-
         <div style="font-size:16px;">
         Honors<br>
-        2022 | Excellent Graduation with Honor (1%, XJTU) <br>
-        2022 | Excellent Master Thesis (1%, top honor)<br>
-        [3] Excellent Postgraduate & Cadre                                                       | 2021 <br>
-        [4] Excellent Graduate & Cadre                                                           | 2019 <br>
-        [5] Blue-sword Fellow Bonus (0.1%, ZTE)                                                  | 2022-2024 <br>
-        [6] Schlumberger National Fellowship (0.5%)                                              | 2021 <br>
-        [7] National Encouragement Scholarship                                                   | 2020 <br>
-        [8] Recommended Postgraduate Scholarship (Exempt-exam)                                   | 2019 <br>
-        [9] Outstanding Student Scholarship (7 times)                                            | 2016-2022 <br>
+        [1] 2022 | Excellent Graduation with Honor (1%, XJTU) <br>
+        [2] 2022 | Excellent Master Thesis (1%, top honor)<br>
+        [3] 2021 | Excellent Postgraduate & Cadre <br>
+        [4] 2019 | Excellent Graduate & Cadre <br>
+        <br>
+        Rewards<br>
+        [1] 2022 | Blue-sword Fellow Bonus (0.1%, awarded for three consecutive years, ZTE) <br>
+        [2] 2021 | Schlumberger National Fellowship (0.5%) <br>
+        [3] 2020 | National Encouragement Scholarship <br>
+        [4] 2019 | Recommended Postgraduate Scholarship (Exempt-exam) <br>
+        [5] 2016 | Outstanding Student Scholarship (1%, awarded for seven consecutive years)<br>
         <br>
         Awards<br>
-        President Award, Global Open Competition                                                 | 2024 <br>
-        President Special Award, Efficiency Proposal Task                                        | 2023 <br>
-        Golden Award, ZTE National Innovation Day (twice)                                        | 2023-2024 <br>
-        Golden Award, National Competition ‘Challenge Cup’ (4/379)                               | 2021 <br>
-        Second Award, National Undergraduate Innovation Competition                              | 2020 <br>
-        Second Award, National Ministry of Education of Graduation Dissertation Competition      | 2019 <br>
+        [1] 2024 | President Award, Global Open Competition <br>
+        [2] 2023 | President Special Award, Efficiency Proposal Task <br>
+        [3] 2023 | Golden Award, ZTE National Innovation Day (twice awarded) <br>
+        [4] 2021 | Golden Award, National Competition ‘Challenge Cup’ (4/379) <br>
+        [5] 2020 | Second Award, National Undergraduate Innovation Competition <br>
+        [6] 2019 | Second Award, National Ministry of Education of Graduation Dissertation Competition <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
     design:
