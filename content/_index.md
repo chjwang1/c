@@ -79,8 +79,9 @@ sections:
         Honors<br>
         [1] 2022 | Excellent Graduation with Honor (1%, honored in Xi'an Jiaotong University) <a href="https://chjwang1.github.io/c/honor1.jpg" target="_blank" rel="noopener">Certificate</a> <br>
         [2] 2022 | Excellent Master Thesis (1%, honored in Xi'an Jiaotong University) <a href="https://gs.xjtu.edu.cn/info/1187/8982.htm" target="_blank" rel="noopener">Certificate</a> <br>
-        [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University)<br>
-        [4] 2019 | Excellent Graduate & Cadre (honored in Nanjing University of Aeronautics and Astronatics)<br>
+        [3] 2021 | Excellent Postgraduate & Cadre (3%, honored in Xi'an Jiaotong University) <a href="https://chjwang1.github.io/c/honor3.jpg" target="_blank" rel="noopener">Certificate</a> <br>
+        [4] 2019 | Excellent Undergraduate Thesis (1%, honored in Nanjing University of Aeronautics and Astronatics) <a href="https://aao.nuaa.edu.cn/_t2299/2019/0701/c19045a171711/page.htm" target="_blank" rel="noopener">Certificate</a><br>
+        [5] 2019 | Excellent Graduation with Honor (honored in Nanjing University of Aeronautics and Astronatics) <a href="https://cca.nuaa.edu.cn/_s146/_t862/4769/list.psp" target="_blank" rel="noopener">Certificate</a><br>
         <br>
         Rewards<br>
         [1] 2024 | ZTE Quarterly Fighting Innovation Pioneer Bonus (Temperature wireless sensing system benefits production equipment status detection) <br>
