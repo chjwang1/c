@@ -113,9 +113,9 @@ sections:
       subtitle: ''
       text: |-
         <div style="font-size:16px;">
-        [1] <a href="https://www.cell.com/" target="_blank" rel="noopener">Cell Press</a> | <a href="mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q" target="_blank" rel="noopener">mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q</a> <br>
-        [2] <a href="https://x.com/thepapercn" target="_blank" rel="noopener">The Paper</a> | <a href="m.thepaper.cn/newsDetail_forward_29947549" target="_blank" rel="noopener">m.thepaper.cn/newsDetail_forward_29947549</a> <br>
-        [3] <a href="https://www.tencent.com/en-us/media/news.html" target="_blank" rel="noopener">Tencent News</a> | <a href="news.qq.com/rain/a/20250116A078JY00?suid=&media_id=" target="_blank" rel="noopener">news.qq.com/rain/a/20250116A078JY00?suid=&media_id=</a> <br>
+        [1] <a href="https://www.cell.com/" target="_blank" rel="noopener">Cell Press</a> | <a href="https://mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q</a> <br>
+        [2] <a href="https://x.com/thepapercn" target="_blank" rel="noopener">The Paper</a> | <a href="https://m.thepaper.cn/newsDetail_forward_29947549" target="_blank" rel="noopener">https://m.thepaper.cn/newsDetail_forward_29947549</a> <br>
+        [3] <a href="https://www.tencent.com/en-us/media/news.html" target="_blank" rel="noopener">Tencent News</a> | <a href="https://news.qq.com/rain/a/20250116A078JY00?suid=&media_id=" target="_blank" rel="noopener">https://news.qq.com/rain/a/20250116A078JY00?suid=&media_id=</a> <br>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
     design:
