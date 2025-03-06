@@ -1,13 +1,18 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Master’s Independent Project
+date: 2022-06-20
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Project 2
+#  - Wowchemy
+#  - Markdown
 ---
-
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+<div style="font-size:16px;">
+<b>Master’s Independent Project:<br> Soluble polymetric UV resin cross-scaled forming and error restrain</b><br>
+Here are some key points that I achieved:<br>
+•  Developed cross-scaled cured features and assessed multi-FMs demolding with no damage.
+•  Resolved resin dissolution at ambiance temperature, COMSOL simulation and theoretical analysis of droplet electrowetting infiltration and replacement in ultra-hydronic wax channels.
+<style>#section-markdown .max-w-prose{max-width:85%}</style>
+</div>
 
 <!--more-->

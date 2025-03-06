@@ -1,13 +1,18 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Master’s Corporative Project
+date: 2021-09-15
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Project 3
+#  - Wowchemy
+#  - Markdown
 ---
-
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+<div style="font-size:16px;">
+<b>Master’s Corporative Project:<br> Enhanced mechanism research of electro-alignment in epoxy lamination</b><br>
+Here are some key points that I achieved:<br>
+•  Analytical modal establishment and electric field simulation of Maxwell force driven Graphene alignment.
+•  Experiments of interface reinforcement and toughening of the heterogeneous adhesion surfaces.
+<style>#section-markdown .max-w-prose{max-width:85%}</style>
+</div>
 
 <!--more-->
