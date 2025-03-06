@@ -9,6 +9,7 @@ tags:
 ---
 <div style="font-size:16px;">
 <b>Master’s Corporative Project:<br> Enhanced mechanism research of electro-alignment in epoxy lamination</b><br>
+This research was developed at Key Laboratory of the Ministry of Education & International Center for Dielectric Research in Xi'an Jiaotong University (XJTU) under my co-supervisors, <a href="https://gr.xjtu.edu.cn/en/web/jzhang12"  target="_blank" rel="noopener">Prof. Jie Zhang</a> and <a href="https://scholar.google.com/citations?user=0goGooAAAAAJ&hl=zh-CN"  target="_blank" rel="noopener">Prof. Jianying He</a>.<br>
 Here are some key points that I achieved:<br>
 •  Analytical modal establishment and electric field simulation of Maxwell force driven Graphene alignment.<br>
 •  Experiments of interface reinforcement and toughening of the heterogeneous adhesion surfaces.<br>

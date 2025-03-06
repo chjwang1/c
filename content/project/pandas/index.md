@@ -9,6 +9,7 @@ tags:
 ---
 <div style="font-size:16px;">
 <b>Master’s Independent Project:<br> Flexible piezoelectric multi-metamaterial and biometric multimodal electronics</b><br>
+This research was developed at State Key Laboratory for Manufacturing Systems Engineering in Xi'an Jiaotong University (XJTU) under my 1st mentor, <a href="https://scholar.google.com/citations?user=efLK4u4AAAAJ&hl=zh-CN"  target="_blank" rel="noopener">Prof. Xiaoming Chen</a>, and co-mentor, <a href="https://scholar.google.com/citations?user=tZeY-IcAAAAJ&hl=en"  target="_blank" rel="noopener">Prof. Jinyou Shao</a>. <br>
 Here are some key points that I achieved:<br>
 •  Biometric design of serious piezoelectric lattices composed of skin-inspired axial and radial units.<br>
 •  Higher-performed BNNS/CNT comfortable composites synthesis and characterization.<br>
