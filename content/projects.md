@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Research Projects
-      text: I enjoy make the innovative things. Here are a selection of research projects that I have worked on over the years.
+      text: I enjoy make the innovative things.<br> Here are a selection of research projects that I have worked on over the years.
       filters:
         folders:
           - project
