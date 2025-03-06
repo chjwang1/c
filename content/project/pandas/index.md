@@ -1,5 +1,5 @@
 ---
-title: Master’s Independent Project.
+title: Master’s Independent Project
 date: 2023-10-26
 external_link: ''
 tags:
@@ -8,7 +8,7 @@ tags:
 #  - Markdown
 ---
 <div style="font-size:16px;">
-<b>Flexible piezoelectric multi-metamaterial and biometric multimodal electronics</b><br>
+<b>Master’s Independent Project: Flexible piezoelectric multi-metamaterial and biometric multimodal electronics</b><br>
 Here are some key points that I achieved:<br>
 •  Biometric design of serious piezoelectric lattices composed of skin-inspired axial and radial units.<br>
 •  Higher-performed BNNS/CNT comfortable composites synthesis and characterization.<br>
