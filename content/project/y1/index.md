@@ -1,6 +1,6 @@
 ---
 title: Bachelor’s Graduation Task
-date: 2021-09-15
+date: 2019-06-05
 external_link: ''
 tags:
   - Project 5

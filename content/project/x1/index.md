@@ -1,6 +1,6 @@
 ---
 title: Master’s Corporative Project
-date: 2021-09-15
+date: 2020-08-30
 external_link: ''
 tags:
   - Project 4
