@@ -12,6 +12,7 @@ tags:
 Here are some key points that I achieved:<br>
 •  Analytical modal establishment and electric field simulation of Maxwell force driven Graphene alignment.<br>
 •  Experiments of interface reinforcement and toughening of the heterogeneous adhesion surfaces.<br>
+•  The related results was published at journal <a href="https://doi.org/10.1016/j.compositesb.2022.110368" target="_blank" rel="noopener"><b><i>Compos. Part B Eng.</i></b> 234, 109751 (2022).</a>
 <style>#section-markdown .max-w-prose{max-width:85%}</style>
 </div>
 

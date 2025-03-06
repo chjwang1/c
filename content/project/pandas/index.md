@@ -14,6 +14,7 @@ Here are some key points that I achieved:<br>
 •  Higher-performed BNNS/CNT comfortable composites synthesis and characterization.<br>
 •  Tailored gradient metamaterials properties optimization and achieved multimodal demonstration.<br>
 •  Developed programmable devices with robust improvement in grasping and stiffness recognition. <br>
+•  The related results was published at journal <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener"><b><i>Device</i></b>. 3, 100658 (2025).</a>
 <style>#section-markdown .max-w-prose{max-width:85%}</style>
 </div>
 
