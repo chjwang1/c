@@ -192,7 +192,7 @@ sections:
 ##        padding: [0, 0, 0, 0]
 
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: fause # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
