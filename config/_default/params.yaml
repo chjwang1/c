@@ -39,10 +39,10 @@ header:
       text: "Resume"
 
 # Site footer
-#This work is licensed under {license}'
+# This work is licensed under {license}
 footer:
   copyright:
-    notice: '© {year} Chun-Jiang WANG.
+    notice: '© {year} Chun-Jiang WANG.'
     license:
       enable: true
       allow_derivatives: false
