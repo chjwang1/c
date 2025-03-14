@@ -11,6 +11,7 @@ tags:
 <b>Master’s Corporative Project:<br> 
 Hybrid printed Bi2Te3 thermoelectric piles for energy conversion</b><br>
 This research was developed at Department of Physics in Southern University of Science and Technology (SUSTech) under co-supervisor, <a href="https://scholar.google.com/citations?user=1tlJQ-0AAAAJ&hl=en"  target="_blank" rel="noopener">Prof. Jianxu Shi</a>.<br>
+In this project, we focused on the laser selected melting process of thermoelectric powders, which helps in the design and optimization of structured thermoelectric performance<br>.
 Here are some key points that I achieved:<br>
 •  Research of carrier-phonon decoupling theory; Thermoelectric composite synthesis. <br>
 •  Conducted SLM of mixture powders; Properties simulation and Seebeck coefficient measurement. <br>

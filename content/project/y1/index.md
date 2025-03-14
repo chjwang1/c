@@ -10,6 +10,7 @@ tags:
 <div style="font-size:16px;">
 <b>Bachelor’s Graduation Task: <br> Reliability optimization and validation of dump mechanical design</b> <br>
 This research was developed at College of Civil Aviation of Nanjing University of Aeronautics and Astronautics (NUAA) under my supervisor, <a href="https://scholar.google.com.ua/citations?hl=ru&user=ogtLwqMAAAAJ&view_op=list_works&sortby=pubdate"  target="_blank" rel="noopener">Prof. Tiniakov D</a>.<br>
+As a course design and international exchange student topic, I focused on analyzing the mechanical piping system of civil aircraft and its reliability design in this project. This is a low-risk topic (NO MILITARY RELATED) for the civil field.<br>
 Here are some key points that I achieved:<br>
 •  Reliability validation of multilayered pump system based on Markov chain. <br>
 •  Achieved dynamic simulation via Adams and Abaqus of virtual prototyping. <br>
