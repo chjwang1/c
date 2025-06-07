@@ -42,6 +42,7 @@ sections:
         <div style="font-size:18px;"><b><u>Peer-viewed Articles</u></b></div>
         - Four selected journal articles were published as the primary research outcomes in XJTU (Xi'an Jiaotong University).<br>
         - Co-worked with the Group in HKU (The University of Hong Kong) and NTNU (Norwegian University of Science and Technology).<br>
+        <div style="text-align: justify;">
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> Cover Article (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [2] <b><u>Wang C</u></b>, Chen X*, Shi J, et al. Hierarchically scalable BNNS-embedded nanofilms for adaptive thermal detection and tunable piezoelectrical recognition. <b><i>Adv. Func. Mater.</b></i> Submitted, under first-round peer review (2025).<br>
@@ -52,6 +53,7 @@ sections:
         [5]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 248, 110368 (2023). <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a>
         <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         <br>
+        </div>
         <p>
         <img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
         Proceeding Reports <br>
