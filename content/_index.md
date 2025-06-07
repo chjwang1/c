@@ -37,11 +37,11 @@ sections:
       subtitle: ''
       text: |-
         <div style="font-size:16px;">
-        <b><u>Peer-viewed Articles</u></b><br>
-        Four selected journal articles were published as the primary research outcomes.<br>
-        Co-worked with the Group in HKU (The University of Hong Kong) and NTNU (Norwegian University of Science and Technology).<br>
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
+        <div style="font-size:18px;"><b><u>Peer-viewed Articles</u></b></div><br>
+        Four selected journal articles were published as the primary research outcomes in XJTU (Xi'an Jiaotong University).<br>
+        Co-worked with the Group in HKU (The University of Hong Kong) and NTNU (Norwegian University of Science and Technology).<br>
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> Cover Article (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> (JCR Q1, IF=5.1) 50, 2, 2921-2930 (2024). <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a>
@@ -51,9 +51,9 @@ sections:
         [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 248, 110368 (2023). <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a>
         <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         <br>
-        Proceeding Reports <br>
         <p>
         <img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
+        Proceeding Reports <br>
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed polymeric programmable metamaterials for biomimetic multimodal electronics. <b><i><a href="https://www.acs.org/events/fall.html"  target="_blank" rel="noopener">ACS Fall 2025. Oral</a></i></b>, Washington, DC, USA, August 17-21st (2025).<br>
         [2]	<b><u>Wang C</u></b>, Chen X*, J Zhang, et al. Multimodal, neurological, programmable multi-metamaterial bioelectronics via investment micro–casting mediated 3D printing. International Workshop on Bionic Engineering & Plenary Meetings of ISO/TC 266 Biomimetics (<b><i><a href="http://iwbe2025.huicekeji.com/En/Default" target="_blank" rel="noopener">IWBE 2025. Oral</a></i></b>), Vienna, Austria, September 23-27th (2025).<br>
         [3]	<b><u>Wang C</u></b>, Shi J, Chen X*, et al. Rapid synthesis and fabrication of thermoelectric pile using laser-regulated forming technique. Proceedings of the 15th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://www.cmes.org/2e7909094b5d4f4e8acb4aa87fce5281.html" target="_blank" rel="noopener">ICFDM 2022. Poster</a></i></b>), Changchun, Jilin, China, August 17-19th (2022).<br>
@@ -62,9 +62,9 @@ sections:
         [6]	<b><u>Wang C</u></b>, Tiniakov D*, Alex R, et al. Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain. Proceedings of the 5th International Conference on mechanical and equipment reliability design (<b><i><a href="https://cca.nuaa.edu.cn/list/01_docu./03256" target="_blank" rel="noopener">ICMER 2019. Oral</a></i></b>), Nanjing, Jiangsu, China, March 6-8th (2019).<br>
         [7]	Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd (2024).<br>
         <br>
-        Licensed Nation Patents<br>
         <p>
         <img src="https://chjwang1.github.io/c/patentslist.png" alt="patentslist"></p>
+        Licensed Nation Patents<br>
         [1]	Chen X*, <b><u>Wang C</u></b>, et al. A 3D pressure sensor based on 3D printing template method and its preparation method. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202011642025.3&pnmno=CN112848269A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202011642025.3 (2022)</a>  <a href="https://chjwang1.github.io/c/l1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [2]	Chen X*, <b><u>Wang C</u></b>, et al. A discrete fabrication method of two-dimensional nano-aerogel with designable three-dimensional structure. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202110475777.3&pnmno=CN113289558A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202110475777.3 (2022)</a> <a href="https://chjwang1.github.io/c/l2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [3]	Chen X*, <b><u>Wang C</u></b>, et al. Anisotropic thermal conductive flexible piezoelectric sensor and its micro-fabrication. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562500.4&pnmno=CN113337000B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202110562500.4 (2021)</a> <a href="https://chjwang1.github.io/c/l3.pdf" target="_blank" rel="noopener">📑Download</a> <br>
