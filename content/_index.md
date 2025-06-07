@@ -37,10 +37,13 @@ sections:
       subtitle: ''
       text: |-
         <div style="font-size:16px;">
-        Peer-viewed Articles <br>
+        <b>
+        --------------------<br>
+        Peer-viewed Articles<br>
+        --------------------<br></b>
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
-        [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> (CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
+        [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <u>Cover Article</u> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> 50, 2, 2921-2930 (2024). <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a>
         <a href="https://chjwang1.github.io/c/p2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
