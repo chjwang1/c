@@ -60,23 +60,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S. Airworthness Management
+  - area: B.S. Mechanical Engineering
     institution: Nanjing University of Aeronautics and Astronautics
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
       GPA: 3.85/4.0
       Thesis on _Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain_.
-  - area: B.S. Mechanical Engineering (Minor)
-    institution: Nanjing University of Aeronautics and Astronautics
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      GPA: 3.85/4.0
-      Courses included:
-      - Advanced Calculus, Advanced Linear Algebra, Probability-and-Statistics.
-      - Physics, Mechanical Design, Mechanical Theory, Mechanics of Materials, Engineering drawing.
-      - Software Development With C++, General Chemistry, Solids Modeling and 3D Mechanical Design Principles.
+  #- area: B.S.  Airworthness Management (Minor)
+  #  institution: Nanjing University of Aeronautics and Astronautics
+  #  date_start: 2018-09-01
+  #  date_end: 2019-06-30
+  #  summary: |
+  #    GPA: 3.85/4.0
+  #    Courses included:
+  #    - Advanced Calculus, Advanced Linear Algebra, Probability-and-Statistics.
+  #    - Physics, Mechanical Design, Mechanical Theory, Mechanics of Materials, Engineering drawing.
+  #    - Software Development With C++, General Chemistry, Solids Modeling and 3D Mechanical Design Principles.
 work:
   - position: Chief R&D Engineer
     company_name: ZTE CORPORATION

@@ -38,15 +38,17 @@ sections:
       text: |-
         <div style="font-size:16px;">
         <b><u>Peer-viewed Articles</u></b><br>
+        Four selected journal articles were published as the primary research outcomes.<br>
+        Co-worked with the Group in HKU (The University of Hong Kong) and NTNU (Norwegian University of Science and Technology).<br>
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> Cover Article (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> 50, 2, 2921-2930 (2024). <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a>
+        [2]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> (JCR Q1, IF=5.1) 50, 2, 2921-2930 (2024). <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a>
         <a href="https://chjwang1.github.io/c/p2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [3]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. <b><i>Compos. Part B Eng.</i></b> 234, 109751 (2022). <a href="https://doi.org/10.1016/j.compositesb.2022.110368" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.110368</a>
+        [3]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 234, 109751 (2022). <a href="https://doi.org/10.1016/j.compositesb.2022.110368" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.110368</a>
         <a href="https://chjwang1.github.io/c/p3.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> 248, 110368 (2023). <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a>
+        [4]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 248, 110368 (2023). <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a>
         <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         <br>
         Proceeding Reports <br>
