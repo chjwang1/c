@@ -68,7 +68,7 @@ sections:
         </div>
 
         <p>
-        <img src="https://chjwang1.github.io/c/patentslist.png" alt="patentslist"></p>
+        <img src="https://chjwang1.github.io/c/patentlist.png" alt="patentlist"></p>
         <div style="font-size:18px;"><b>Licensed Nation Patents</b></div>
         <div style="text-align: justify;">
         [1]	Chen X*, <b><u>Wang C</u></b>, et al. A 3D pressure sensor based on 3D printing template method and its preparation method. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011642025.3&pnmno=CN112848269A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202011642025.3 (2022)</a>  <a href="https://chjwang1.github.io/c/l1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
