@@ -72,6 +72,7 @@ sections:
         <p>
         <img src="https://chjwang1.github.io/c/patentslist.png" alt="patentslist"></p>
         <div style="font-size:18px;"><b><u>Licensed Nation Patents</u></b></div>
+        <div style="text-align: justify;">
         [1]	Chen X*, <b><u>Wang C</u></b>, et al. A 3D pressure sensor based on 3D printing template method and its preparation method. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202011642025.3&pnmno=CN112848269A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202011642025.3 (2022)</a>  <a href="https://chjwang1.github.io/c/l1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [2]	Chen X*, <b><u>Wang C</u></b>, et al. A discrete fabrication method of two-dimensional nano-aerogel with designable three-dimensional structure. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202110475777.3&pnmno=CN113289558A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202110475777.3 (2022)</a> <a href="https://chjwang1.github.io/c/l2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [3]	Chen X*, <b><u>Wang C</u></b>, et al. Anisotropic thermal conductive flexible piezoelectric sensor and its micro-fabrication. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562500.4&pnmno=CN113337000B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202110562500.4 (2021)</a> <a href="https://chjwang1.github.io/c/l3.pdf" target="_blank" rel="noopener">📑Download</a> <br>
@@ -81,6 +82,7 @@ sections:
         [7]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for improving the performance of fiber resin-based composite material. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202111023062.0&pnmno=CN113583268B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202111023062.0 (2021)</a> <a href="https://chjwang1.github.io/c/l7.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [8]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for preparing fiber composite material with high interface strength. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202111008986.3&pnmno=CN113638228A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202111008986.3 (2021)</a> <a href="https://chjwang1.github.io/c/l8.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         [9]	Chen X*, Wang S, Shao J. <b><u>Wang C</u></b>, et al. A method for preparing flexible transparent conductive films based on micro-stereolithography. <a href="https://www.innojoy.com/patent/patent.html?docno=CN202011640019.4&pnmno=CN112768141A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202011640019.4 (2021)</a> <a href="https://chjwang1.github.io/c/l9.pdf" target="_blank" rel="noopener">📑Download</a> <br>
+        </div>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
         </div>
     design:
