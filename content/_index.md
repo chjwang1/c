@@ -56,8 +56,8 @@ sections:
 
         <p>
         <img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
-        <div style="font-size:18px;"><b>Proceeding Reports</b></div>
-        <div style="text-align: justify; text-indent: 2em;">
+        <div style="font-size:18px;"><b>Conference Presentations</b></div>
+        <div style="text-align: justify; padding-left: 1em; text-indent: -1em;">
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed polymeric programmable metamaterials for biomimetic multimodal electronics. <b><i><a href="https://www.acs.org/events/fall.html"  target="_blank" rel="noopener">ACS Fall 2025. Oral</a></i></b>, Washington, DC, USA, August 17-21st (2025).<br>
         [2]	<b><u>Wang C</u></b>, Chen X*, J Zhang, et al. Multimodal, neurological, programmable multi-metamaterial bioelectronics via investment micro–casting mediated 3D printing. International Workshop on Bionic Engineering & Plenary Meetings of ISO/TC 266 Biomimetics (<b><i><a href="http://iwbe2025.huicekeji.com/En/Default" target="_blank" rel="noopener">IWBE 2025. Oral</a></i></b>), Vienna, Austria, September 23-27th (2025).<br>
         [3]	<b><u>Wang C</u></b>, Shi J, Chen X*, et al. Rapid synthesis and fabrication of thermoelectric pile using laser-regulated forming technique. Proceedings of the 15th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://www.cmes.org/2e7909094b5d4f4e8acb4aa87fce5281.html" target="_blank" rel="noopener">ICFDM 2022. Poster</a></i></b>), Changchun, Jilin, China, August 17-19th (2022).<br>
