@@ -114,6 +114,7 @@ sections:
         <p class="hanging">
         [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd-25th (2024).
         </p>
+        <br>
 
         <style>.hanging {
           text-align: justify;
@@ -203,6 +204,7 @@ sections:
       title: '<div style="font-size:24px;">Highlight Research in Media Reports</div>'
       subtitle: ''
       text: |-
+        <p><img src="https://chjwang1.github.io/c/medialist.png" alt="medialist"></p>
         <div style="font-size:16px;">
         [1] <a href="https://www.cell.com/" target="_blank" rel="noopener">Cell Press</a> | <a href="https://mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/JZcwoTF9_DqdBhmDQuCa8Q</a> <br>
         [2] <a href="https://x.com/thepapercn" target="_blank" rel="noopener">The Paper</a> | <a href="https://m.thepaper.cn/newsDetail_forward_29947549" target="_blank" rel="noopener">https://m.thepaper.cn/newsDetail_forward_29947549</a> <br>
