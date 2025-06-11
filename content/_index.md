@@ -74,16 +74,16 @@ sections:
         [3] <b><u>Wang C</u></b>, Shi J, Chen X*, et al. Rapid synthesis and fabrication of thermoelectric pile using laser-regulated forming technique. Proceedings of the 15th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://www.cmes.org/2e7909094b5d4f4e8acb4aa87fce5281.html" target="_blank" rel="noopener">ICFDM 2022. Poster</a></i></b>), Changchun, Jilin, China, August 17-19th (2022).
         </p>
         <p class="hanging">
-        [4] <b><u>Wang C</u></b>, Niu W, Song Q, et al. 3D printed water–soluble UV photopolymer for flexible sensor with sacrificial scaffolds and indirect molding. Proceedings of The 16th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (<b><i><a href="https://ieeexplore.ieee.org/document/9451389" target="_blank" rel="noopener">IEEE NEMS 2021. Oral</a></i></b>), Xiamen, Fujian, China, pp. 478–479 (2021).
+        [4] <b><u>Wang C</u></b>, Niu W, Song Q, et al. 3D printed water–soluble UV photopolymer for flexible sensor with sacrificial scaffolds and indirect molding. Proceedings of The 16th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (<b><i><a href="https://ieeexplore.ieee.org/document/9451389" target="_blank" rel="noopener">IEEE NEMS 2021. Oral</a></i></b>), Xiamen, Fujian, China, volume 7, pp. 478–479, April 18-22th (2021).
         </p>
         <p class="hanging">
         [5] <b><u>Wang C</u></b>, Chen X*, Wang S, et al. Flexible high-performed piezoelectric nanocomposite and its structural application. Proceedings of the 14th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://mm.scimeeting.cn/en/web/index/186" target="_blank" rel="noopener">ICFDM 2020. Poster</a></i></b>), Xi’an, Shaanxi, China, September 12-14th (2020).
         </p>
         <p class="hanging">
-        [6] <b><u>Wang C</u></b>, Tiniakov D*, Alex R, et al. Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain. Proceedings of the 5th International Conference on mechanical and equipment reliability design (<b><i><a href="https://cca.nuaa.edu.cn/list/01_docu./03256" target="_blank" rel="noopener">ICMER 2019. Oral</a></i></b>), Nanjing, Jiangsu, China, March 6-8th (2019).
+        [6] <b><u>Wang C</u></b>, Tiniakov D*, Alex R, et al. Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain. Proceedings of the 5th International Conference on Mechanical and Equipment Reliability Design (<b><i><a href="https://cca.nuaa.edu.cn/list/01_docu./03256" target="_blank" rel="noopener">ICMER 2019. Oral</a></i></b>), Nanjing, Jiangsu, China, volume 5, pp. 92-98, March 6-8th (2019).
         </p>
         <p class="hanging">
-        [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd (2024).
+        [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd-25th (2024).
         </p>
 
         <p>
