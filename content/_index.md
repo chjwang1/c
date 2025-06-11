@@ -38,8 +38,8 @@ sections:
       text: |-
         <style>.hanging {
         text-align: justify;
-        padding-left: 2em;
-        text-indent: -2em;
+        padding-left: 1em;
+        text-indent: -1em;
         margin: 0.5em 0;
         font-size: 16px;
         }
