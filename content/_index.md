@@ -54,19 +54,38 @@ sections:
         <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
         </div>
 
-        <p>
-        <img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
+        <style>.hanging {
+          text-align: justify;
+          padding-left: 2em;
+          text-indent: -2em;
+          margin: 0.3em 0;
+          font-size: 16px;
+        }
+        </style>
+        <p><img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
         <div style="font-size:18px;"><b>Conference Presentations</b></div>
-        <div style="text-align: justify; padding-left: 1em; text-indent: -1em;">
-        [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed polymeric programmable metamaterials for biomimetic multimodal electronics. <b><i><a href="https://www.acs.org/events/fall.html"  target="_blank" rel="noopener">ACS Fall 2025. Oral</a></i></b>, Washington, DC, USA, August 17-21st (2025).<br>
-        [2]	<b><u>Wang C</u></b>, Chen X*, J Zhang, et al. Multimodal, neurological, programmable multi-metamaterial bioelectronics via investment micro–casting mediated 3D printing. International Workshop on Bionic Engineering & Plenary Meetings of ISO/TC 266 Biomimetics (<b><i><a href="http://iwbe2025.huicekeji.com/En/Default" target="_blank" rel="noopener">IWBE 2025. Oral</a></i></b>), Vienna, Austria, September 23-27th (2025).<br>
-        [3]	<b><u>Wang C</u></b>, Shi J, Chen X*, et al. Rapid synthesis and fabrication of thermoelectric pile using laser-regulated forming technique. Proceedings of the 15th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://www.cmes.org/2e7909094b5d4f4e8acb4aa87fce5281.html" target="_blank" rel="noopener">ICFDM 2022. Poster</a></i></b>), Changchun, Jilin, China, August 17-19th (2022).<br>
-        [4]	<b><u>Wang C</u></b>, Niu W, Song Q, et al. 3D printed water–soluble UV photopolymer for flexible sensor with sacrificial scaffolds and indirect molding. Proceedings of The 16th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (<b><i><a href="https://ieeexplore.ieee.org/document/9451389" target="_blank" rel="noopener">IEEE NEMS 2021. Oral</a></i></b>), Xiamen, Fujian, China, pp. 478–479 (2021).<br>
-        [5]	<b><u>Wang C</u></b>, Chen X*, Wang S, et al. Flexible high-performed piezoelectric nanocomposite and its structural application. Proceedings of the 14th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://mm.scimeeting.cn/en/web/index/186" target="_blank" rel="noopener">ICFDM 2020. Poster</a></i></b>), Xi’an, Shaanxi, China, September 12-14th (2020).<br>
-        [6]	<b><u>Wang C</u></b>, Tiniakov D*, Alex R, et al. Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain. Proceedings of the 5th International Conference on mechanical and equipment reliability design (<b><i><a href="https://cca.nuaa.edu.cn/list/01_docu./03256" target="_blank" rel="noopener">ICMER 2019. Oral</a></i></b>), Nanjing, Jiangsu, China, March 6-8th (2019).<br>
-        [7]	Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd (2024).<br>
-        </div>
-
+        <p class="hanging">
+        [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed polymeric programmable metamaterials for biomimetic multimodal electronics. <b><i><a href="https://www.acs.org/events/fall.html"  target="_blank" rel="noopener">ACS Fall 2025. Oral</a></i></b>, Washington, DC, USA, August 17-21st (2025).
+        </p>
+        <p class="hanging">
+        [2] <b><u>Wang C</u></b>, Chen X*, J Zhang, et al. Multimodal, neurological, programmable multi-metamaterial bioelectronics via investment micro–casting mediated 3D printing. International Workshop on Bionic Engineering & Plenary Meetings of ISO/TC 266 Biomimetics (<b><i><a href="http://iwbe2025.huicekeji.com/En/Default" target="_blank" rel="noopener">IWBE 2025. Oral</a></i></b>), Vienna, Austria, September 23-27th (2025).
+        </p>
+        <p class="hanging">
+        [3] <b><u>Wang C</u></b>, Shi J, Chen X*, et al. Rapid synthesis and fabrication of thermoelectric pile using laser-regulated forming technique. Proceedings of the 15th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://www.cmes.org/2e7909094b5d4f4e8acb4aa87fce5281.html" target="_blank" rel="noopener">ICFDM 2022. Poster</a></i></b>), Changchun, Jilin, China, August 17-19th (2022).
+        </p>
+        <p class="hanging">
+        [4] <b><u>Wang C</u></b>, Niu W, Song Q, et al. 3D printed water–soluble UV photopolymer for flexible sensor with sacrificial scaffolds and indirect molding. Proceedings of The 16th IEEE International Conference on Nano/Micro Engineered & Molecular Systems (<b><i><a href="https://ieeexplore.ieee.org/document/9451389" target="_blank" rel="noopener">IEEE NEMS 2021. Oral</a></i></b>), Xiamen, Fujian, China, pp. 478–479 (2021).
+        </p>
+        <p class="hanging">
+        [5] <b><u>Wang C</u></b>, Chen X*, Wang S, et al. Flexible high-performed piezoelectric nanocomposite and its structural application. Proceedings of the 14th International Conference on Frontiers of Design and Manufacturing (<b><i><a href="https://mm.scimeeting.cn/en/web/index/186" target="_blank" rel="noopener">ICFDM 2020. Poster</a></i></b>), Xi’an, Shaanxi, China, September 12-14th (2020).
+        </p>
+        <p class="hanging">
+        [6] <b><u>Wang C</u></b>, Tiniakov D*, Alex R, et al. Reliability simulation and optimization of multilayered pump system on the base of discrete-time Markov chain. Proceedings of the 5th International Conference on mechanical and equipment reliability design (<b><i><a href="https://cca.nuaa.edu.cn/list/01_docu./03256" target="_blank" rel="noopener">ICMER 2019. Oral</a></i></b>), Nanjing, Jiangsu, China, March 6-8th (2019).
+        </p>
+        <p class="hanging">
+        [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd (2024).
+        </p>
+        
         <p>
         <img src="https://chjwang1.github.io/c/patentlist.png" alt="patentlist"></p>
         <div style="font-size:18px;"><b>Licensed Nation Patents</b></div>
