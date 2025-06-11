@@ -36,22 +36,51 @@ sections:
       title: '<div style="font-size:24px;">Featured Publications</div>'
       subtitle: ''
       text: |-
+        <style>.hanging {
+        text-align: justify;
+        padding-left: 2em;
+        text-indent: -2em;
+        margin: 0.5em 0;
+        font-size: 16px;
+        }
+        </style>
         <div style="font-size:16px;">
         <p>
-        <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
-        <div style="font-size:18px;"><b>Peer-viewed Articles</b></div>
-        - Four selected journal articles were published as the primary research outcomes in XJTU (<u>Xi'an Jiaotong University</u>).<br>
-        - Co-worked with the Group in HKU (<u>The University of Hong Kong</u>) and NTNU (<u>Norwegian University of Science and Technology</u>).<br>
-        <div style="text-align: justify;">
-        [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <span style="color: blue;">(Cover Article)</span> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
-        <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [2] <b><u>Wang C</u></b>, Chen X*, Shi J, et al. Hierarchically scalable BNNS-embedded nanofilms for adaptive thermal detection and tunable piezoelectrical recognition. <b><i>Adv. Func. Mater.</b></i> Submitted, under first-round peer review (2025).<br>
-        [3]	Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi0.5Sb1.5Te3 using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> (JCR Q1, IF=5.1) 50, 2, 2921-2930 (2024). <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a>
-        <a href="https://chjwang1.github.io/c/p2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [4]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber-epoxy interface through electro-wetting of fiber surface. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 234, 109751 (2022). <a href="https://doi.org/10.1016/j.compositesb.2022.110368" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.110368</a>
-        <a href="https://chjwang1.github.io/c/p3.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [5]	Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 248, 110368 (2023). <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a>
-        <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
+        <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist">
+        </p>
+        <div style="font-size:18px;"><b>Peer-reviewed Articles</b></div>
+        <p style="margin: 0.5em 0 0.2em 0; font-size: 16px;">
+        – Four selected journal articles were published as the primary research outcomes in 
+        <u>Xi'an Jiaotong University</u>.
+        </p>
+        <p style="margin: 0.2em 0 1em 0; font-size: 16px;">
+        – Co-worked with groups from 
+        <u>The University of Hong Kong</u> and 
+        <u>Norwegian University of Science and Technology</u>.
+        </p>
+        <p class="hanging">
+        [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <span style="color: blue;">(Cover Article)</span> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). 
+        <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a> 
+        <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [2] <b><u>Wang C</u></b>, Chen X*, Shi J, et al. Hierarchically scalable BNNS-embedded nanofilms for adaptive thermal detection and tunable piezoelectrical recognition. <b><i>Adv. Func. Mater.</i></b> Submitted, under first-round peer review (2025).
+        </p>
+        <p class="hanging">
+        [3] Shi J*, Tong Z, <b><u>Wang C</u></b>, et al. Predictable thermoelectric performance of directly synthesized Bi<sub>0.5</sub>Sb<sub>1.5</sub>Te<sub>3</sub> using laser powder bed fusion additive manufacturing. <b><i>Ceram. Int.</i></b> (JCR Q1, IF=5.1) 50, 2, 2921–2930 (2024). 
+        <a href="https://doi.org/10.1016/j.ceramint.2023.11.035" target="_blank" rel="noopener">https://doi.org/10.1016/j.ceramint.2023.11.035</a> 
+        <a href="https://chjwang1.github.io/c/p2.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [4] Chen X*, Wen K, <b><u>Wang C</u></b>, et al. Enhancing mechanical strength of carbon fiber–epoxy interface through electro-wetting of fiber surface. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 234, 109751 (2022). 
+        <a href="https://doi.org/10.1016/j.compositesb.2022.110368" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.110368</a> 
+        <a href="https://chjwang1.github.io/c/p3.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [5] Chen X*, Wen K, Cheng S, <b><u>Wang C</u></b>, et al. In-situ damage self-monitoring of fiber-reinforced composite by integrating self-powered ZnO nanowires decorated carbon fabric. <b><i>Compos. Part B Eng.</i></b> (JCR Q1, IF=12.7) 248, 110368 (2023). 
+        <a href="https://doi.org/10.1016/j.compositesb.2022.109751" target="_blank" rel="noopener">https://doi.org/10.1016/j.compositesb.2022.109751</a> 
+        <a href="https://chjwang1.github.io/c/p4.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
         </div>
 
         <style>.hanging {
