@@ -47,16 +47,16 @@ sections:
         <div style="font-size:16px;">
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist">
-
+        <div style="font-size:18px;"><b>Peer-Reviewed Articles</b></div>
         <p style="margin: 0.5em 0 0.2em 0; font-size: 16px;">
-         – Four selected journal articles were published as the primary research outcomes in <u>Xi'an Jiaotong University</u> <a href="https://gr.xjtu.edu.cn/web/xiaomingchen/home" target="_blank" rel="noopener">Prof. Xiaoming Chen</a>.
+         – Four selected journal articles were published as the primary research outcomes in Xi'an Jiaotong University <a href="https://gr.xjtu.edu.cn/web/xiaomingchen/home" target="_blank" rel="noopener">Prof. Xiaoming Chen</a>.
         </p>
         <p style="margin: 0.2em 0 1em 0; font-size: 16px;">
-        – Co-worked with groups from <u>The University of Hong Kong</u> <a href="https://mech.hku.hk/academic-staff/lu-y" target="_blank" rel="noopener">Prof. Yang Lu</a> and <u>Norwegian University of Science and Technology</u> <a href="https://www.ntnu.edu/employees/jianying.he" target="_blank" rel="noopener">Prof. Jianying He</a> .
+        – Co-worked with groups from The University of Hong Kong <a href="https://mech.hku.hk/academic-staff/lu-y" target="_blank" rel="noopener">Prof. Yang Lu</a> and Norwegian University of Science and Technology <a href="https://www.ntnu.edu/employees/jianying.he" target="_blank" rel="noopener">Prof. Jianying</a> .
         </p>
 
         <p class="hanging">
-        [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <span style="color: blue;">(Cover Article)</span> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). 
+        [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> Cover Article, Issue 3, May 16, 2025, CellPress, 3, 100658 (2025). 
         <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a> 
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a>
         </p>
@@ -112,22 +112,46 @@ sections:
         [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd-25th (2024).
         </p>
 
+        <style>.hanging {
+          text-align: justify;
+          padding-left: 1em;
+          text-indent: -1em;
+          margin: 0.3em 0;
+          font-size: 16px;
+        }
+        </style>
         <p>
         <img src="https://chjwang1.github.io/c/patentlist.png" alt="patentlist"></p>
         <div style="font-size:18px;"><b>Licensed Nation Patents</b></div>
-        <div style="text-align: justify;">
-        [1]	Chen X*, <b><u>Wang C</u></b>, et al. A 3D pressure sensor based on template assisted 3D printing and its preparation process method. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011642025.3&pnmno=CN112848269A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202011642025.3 (2022)</a>  <a href="https://chjwang1.github.io/c/l1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [2]	Chen X*, <b><u>Wang C</u></b>, et al. A discrete fabrication method of two-dimensional nano-aerogel with designable three-dimensional structure. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110475777.3&pnmno=CN113289558A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202110475777.3 (2022)</a> <a href="https://chjwang1.github.io/c/l2.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [3]	Chen X*, <b><u>Wang C</u></b>, et al. Anisotropic thermal conductive flexible piezoelectric sensor and its micro-fabrication. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562500.4&pnmno=CN113337000B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202110562500.4 (2021)</a> <a href="https://chjwang1.github.io/c/l3.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [4]	Chen X*, <b><u>Wang C</u></b>, et al. A novel forming method for metal-based metamaterial electronics based on indirect additive manufacturing. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562340.3&pnmno=CN113351827B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL:202110562340.3 (2021)</a> <a href="https://chjwang1.github.io/c/l4.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [5]	Chen X*, <b><u>Wang C</u></b>, et al. A device and instructed method for solid-liquid exchange of residuals in micropores. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110581806.4&pnmno=CN113372502A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202110581806.4 (2021)</a> <a href="https://chjwang1.github.io/c/l5.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [6]	Chen X*, <b><u>Wang C</u></b>, et al. A soluble photosensitive resin and its preparation and curing method for suppressing layer patterns. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011639304.4&pnmno=CN112778447A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202011639304.4 (2021)</a> <a href="https://chjwang1.github.io/c/l6.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [7]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for improving the performance of fiber resin-based composite material. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202111023062.0&pnmno=CN113583268B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202111023062.0 (2021)</a> <a href="https://chjwang1.github.io/c/l7.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [8]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for preparing fiber composite material with high interface strength. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202111008986.3&pnmno=CN113638228A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202111008986.3 (2021)</a> <a href="https://chjwang1.github.io/c/l8.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        [9]	Chen X*, Wang S, Shao J. <b><u>Wang C</u></b>, et al. A method for preparing flexible transparent conductive films based on micro-stereolithography. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011640019.4&pnmno=CN112768141A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202011640019.4 (2021)</a> <a href="https://chjwang1.github.io/c/l9.pdf" target="_blank" rel="noopener">📑Download</a> <br>
-        </div>
+        <p class="hanging">
+        [1]	Chen X*, <b><u>Wang C</u></b>, et al. A 3D pressure sensor based on template assisted 3D printing and its preparation process method. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011642025.3&pnmno=CN112848269A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202011642025.3 (2022)</a>  <a href="https://chjwang1.github.io/c/l1.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [2]	Chen X*, <b><u>Wang C</u></b>, et al. A discrete fabrication method of two-dimensional nano-aerogel with designable three-dimensional structure. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110475777.3&pnmno=CN113289558A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202110475777.3 (2022)</a> <a href="https://chjwang1.github.io/c/l2.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [3]	Chen X*, <b><u>Wang C</u></b>, et al. Anisotropic thermal conductive flexible piezoelectric sensor and its micro-fabrication. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562500.4&pnmno=CN113337000B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202110562500.4 (2021)</a> <a href="https://chjwang1.github.io/c/l3.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [4]	Chen X*, <b><u>Wang C</u></b>, et al. A novel forming method for metal-based metamaterial electronics based on indirect additive manufacturing. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110562340.3&pnmno=CN113351827B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL:202110562340.3 (2021)</a> <a href="https://chjwang1.github.io/c/l4.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [5]	Chen X*, <b><u>Wang C</u></b>, et al. A device and instructed method for solid-liquid exchange of residuals in micropores. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202110581806.4&pnmno=CN113372502A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202110581806.4 (2021)</a> <a href="https://chjwang1.github.io/c/l5.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [6]	Chen X*, <b><u>Wang C</u></b>, et al. A soluble photosensitive resin and its preparation and curing method for suppressing layer patterns. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011639304.4&pnmno=CN112778447A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202011639304.4 (2021)</a> <a href="https://chjwang1.github.io/c/l6.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [7]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for improving the performance of fiber resin-based composite material. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202111023062.0&pnmno=CN113583268B&trsdb=fmsq&showList=true" target="_blank" rel="noopener">CN-ZL: 202111023062.0 (2021)</a> <a href="https://chjwang1.github.io/c/l7.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [8]	Chen X*, Wen K, <b><u>Wang C</u></b>, et al. A method for preparing fiber composite material with high interface strength. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202111008986.3&pnmno=CN113638228A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL:202111008986.3 (2021)</a> <a href="https://chjwang1.github.io/c/l8.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
+        <p class="hanging">
+        [9]	Chen X*, Wang S, Shao J. <b><u>Wang C</u></b>, et al. A method for preparing flexible transparent conductive films based on micro-stereolithography. <br><a href="https://www.innojoy.com/patent/patent.html?docno=CN202011640019.4&pnmno=CN112768141A&trsdb=fmzl&showList=true" target="_blank" rel="noopener">CN-ZL: 202011640019.4 (2021)</a> <a href="https://chjwang1.github.io/c/l9.pdf" target="_blank" rel="noopener">📑Download</a>
+        </p>
         <style>#section-markdown .max-w-prose{max-width:85%}</style>
-        </div>
+  
     design:
       columns: 1
       percent: 50
