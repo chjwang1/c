@@ -45,8 +45,8 @@ sections:
         }
         </style>
         <div style="font-size:16px;">
-        <p>
-        <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist">
+        <p><img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
+        <p><img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
         <div style="font-size:18px;"><b>Peer-Reviewed Articles</b></div>
         <p style="margin: 0.5em 0 0.2em 0; font-size: 16px;">
          – Four selected journal articles were published as the primary research outcomes in Xi'an Jiaotong University <a href="https://gr.xjtu.edu.cn/web/xiaomingchen/home" target="_blank" rel="noopener">Prof. Xiaoming Chen</a>.
@@ -54,7 +54,6 @@ sections:
         <p style="margin: 0.2em 0 1em 0; font-size: 16px;">
         – Co-worked with groups from The University of Hong Kong <a href="https://mech.hku.hk/academic-staff/lu-y" target="_blank" rel="noopener">Prof. Yang Lu</a> and Norwegian University of Science and Technology <a href="https://www.ntnu.edu/employees/jianying.he" target="_blank" rel="noopener">Prof. Jianying</a> .
         </p>
-
         <p class="hanging">
         [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> Cover Article, Issue 3, May 16, 2025, CellPress, 3, 100658 (2025). 
         <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a> 
@@ -88,7 +87,6 @@ sections:
           font-size: 16px;
         }
         </style>
-        <p><img src="https://chjwang1.github.io/c/proceedinglist.png" alt="proceedinglist"></p>
         <div style="font-size:18px;"><b>Conference Presentations</b></div>
         <p class="hanging">
         [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed polymeric programmable metamaterials for biomimetic multimodal electronics. <b><i><a href="https://www.acs.org/events/fall.html"  target="_blank" rel="noopener">ACS Fall 2025. Oral</a></i></b>, Washington, DC, USA, August 17-21st (2025).
