@@ -56,8 +56,8 @@ sections:
 
         <style>.hanging {
           text-align: justify;
-          padding-left: 2em;
-          text-indent: -2em;
+          padding-left: 1em;
+          text-indent: -1em;
           margin: 0.3em 0;
           font-size: 16px;
         }
@@ -85,7 +85,7 @@ sections:
         <p class="hanging">
         [7] Yang D*, Guan J, <b><u>Wang C</u></b>, et al. Intelligent upgrade and practice of the small batch, multiple varieties production for sever assembly and package in ZTE-Binjiang Factory. MBA Collection of Management Case Research Center of Guanghua School of Management (<b><i><a href="https://www.gsm.pku.edu.cn/case/dzalk.htm" target="_blank" rel="noopener">MBA E-cases 2024</a></i></b>), PKU, Beijing, China, June 23rd (2024).
         </p>
-        
+
         <p>
         <img src="https://chjwang1.github.io/c/patentlist.png" alt="patentlist"></p>
         <div style="font-size:18px;"><b>Licensed Nation Patents</b></div>
