@@ -47,17 +47,14 @@ sections:
         <div style="font-size:16px;">
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist">
-        <div style="max-width: 720px; margin: 0 auto 1em auto; line-height: 1.6; font-size: 16px; text-align: justify;">
-         <p style="margin: 0.5em 0;">
-          – Four selected journal articles were published as the primary research outcomes in 
-          <u>Xi'an Jiaotong University</u>.
+
+        <p style="margin: 0.5em 0 0.2em 0; font-size: 16px;">
+         – Four selected journal articles were published as the primary research outcomes in <u>Xi'an Jiaotong University</u> <a href="https://gr.xjtu.edu.cn/web/xiaomingchen/home" target="_blank" rel="noopener">Prof. Xiaoming Chen</a>.
         </p>
-        <p style="margin: 0.5em 0;">
-        – Co-worked with groups from 
-        <u>The University of Hong Kong</u> and 
-        <u>Norwegian University of Science and Technology</u>.
+        <p style="margin: 0.2em 0 1em 0; font-size: 16px;">
+        – Co-worked with groups from <u>The University of Hong Kong</u> <a href="https://mech.hku.hk/academic-staff/lu-y" target="_blank" rel="noopener">Prof. Yang Lu</a> and <u>Norwegian University of Science and Technology</u> <a href="https://www.ntnu.edu/employees/jianying.he" target="_blank" rel="noopener">Prof. Jianying He</a> .
         </p>
-        </div>
+
         <p class="hanging">
         [1] <b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <span style="color: blue;">(Cover Article)</span> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). 
         <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a> 
