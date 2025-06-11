@@ -40,8 +40,8 @@ sections:
         <p>
         <img src="https://chjwang1.github.io/c/articlelist.png" alt="articlelist"></p>
         <div style="font-size:18px;"><b>Peer-viewed Articles</b></div>
-        <u>- Four selected journal articles were published as the primary research outcomes in XJTU (Xi'an Jiaotong University).<br>
-        - Co-worked with the Group in HKU (The University of Hong Kong) and NTNU (Norwegian University of Science and Technology).</u><br>
+        - Four selected journal articles were published as the primary research outcomes in XJTU (<u>Xi'an Jiaotong University</u>).<br>
+        - Co-worked with the Group in HKU (<u>The University of Hong Kong</u>) and NTNU (<u>Norwegian University of Science and Technology</u>).<br>
         <div style="text-align: justify;">
         [1]	<b><u>Wang C</u></b>, Chen X*, Song Q, et al. Investment micro–casting 3D printed multi–metamaterial for programmable multimodal biomimetic electronics. <b><i>Device</i></b> <span style="color: blue;">(Cover Article)</span> (Issue 3, May 16, 2025, CellPress). 3, 100658 (2025). <a href="https://doi.org/10.1016/j.device.2024.100658" target="_blank" rel="noopener">https://doi.org/10.1016/j.device.2024.100658</a>
         <a href="https://chjwang1.github.io/c/p1.pdf" target="_blank" rel="noopener">📑Download</a> <br>
