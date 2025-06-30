@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Chun-Jiang Wang
+title: <div class="author-name">Chun-Jiang WANG</div>
 date: 2022-10-24
 type: landing
 
@@ -20,9 +20,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: "#f9f9f9"
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
