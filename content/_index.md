@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: <div class="author-name">Chun-Jiang WANG</div>
+title: Chun-Jiang WANG
 date: 2022-10-24
 type: landing
 
