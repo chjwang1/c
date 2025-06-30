@@ -7,7 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  css_style: river
+  css_style: light
 
 sections:
   - block: resume-biography-3
