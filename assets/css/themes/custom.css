@@ -1,0 +1,9 @@
+/* 修改侧边栏About Me模块字体颜色 */
+.author-first_name,
+.author-last_name,
+.author-bio,
+.author-bio p,
+.author-email,
+.author-email a {
+  color: #222222 !important;
+}
